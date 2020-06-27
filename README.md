@@ -26,4 +26,12 @@ __Intex__ allows for the following otions, that may be combined:
 
 ## Examples
 
-![gif](Animations/integ_diff.gif)
+### Integration and Differentiation
+
+![gif1](Animations/integ_diff.gif)
+
+### Integration and Latex Conversion
+
+![gif1](Animations/integ_latex.gif)
+
+__Note:__ This is a simple project for simple use. If you need anything more complex I suggest using the Mathematica API. I aim to implement these features as an Emacs snippet to directly act on the buffer while writing LaTeX. Feedback is welcome.
