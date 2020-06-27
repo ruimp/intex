@@ -6,7 +6,7 @@ __Intex__ is a python terminal application to quickly integrate/differentiate ex
 
 Get the app by clonig the repo
    
-   git clone https://github.com/ruimp/intex.git ~/.intex
+    git clone https://github.com/ruimp/intex.git ~/.intex
 
 and simply add an alias to your shell profile
 
