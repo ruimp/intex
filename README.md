@@ -26,4 +26,4 @@ __Intex__ allows for the following otions, that may be combined:
 
 ## Examples
 
-!(Animations/integ_diff.gif)
+![gif](Animations/integ_diff.gif)
