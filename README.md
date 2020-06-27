@@ -12,14 +12,18 @@ and simply add an alias to your shell profile
 
     echo "alias intex=\"python ~/.intex/intex.py\"" >> .zshrc
 
-replacing `.zshrc` with `.bashrc` if you use bash an `python` by `python3` according to your setup.
+replacing `.zshrc` with `.bashrc` if you use bash, and `python` by `python3` according to your setup.
 
 ## Options
 
-__Intex__ allows for the following otions:
+__Intex__ allows for the following otions, that may be combined:
 
-- `-i` to integrate the expression
+- `-i` - integrate the expression
 
-- `-d` to differentiate the expression
+- `-d` - differentiate the expression
 
-- `-l` to convert the output to LaTeX
+- `-l` - convert the output to LaTeX
+
+## Examples
+
+![Text][Animations/integ_diff.gif]
