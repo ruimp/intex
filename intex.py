@@ -6,7 +6,7 @@ def main(arg):
     if len(arg) > 3:
         return "Error. Too many arguments given."
     elif len(arg) == 1:
-        return "Error. No arguments were provided"
+        return "Error. No arguments were provided."
     else:
         return intex(arg[-1], "d" in arg[1], "i" in arg[1], "l" in arg[1])
 
