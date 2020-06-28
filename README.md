@@ -1,6 +1,6 @@
 # Intex
 
-__Intex__ is a python terminal application to quickly integrate/differentiate expressions with optional LaTeX convertion. This simple script was developed simplify direct LaTeX note-taking.
+__Intex__ is a python terminal application to quickly integrate/differentiate expressions with optional LaTeX convertion. This simple script was developed to simplify direct LaTeX note-taking.
 
 ## Installation
 
@@ -16,7 +16,7 @@ replacing `.zshrc` with `.bashrc` if you use bash, and `python` by `python3` acc
 
 ## Options
 
-__Intex__ allows for the following otions, that may be combined:
+__Intex__ allows for the following options, that may be combined:
 
 - `-i` - integrate the expression
 
